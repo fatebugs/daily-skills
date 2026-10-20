@@ -1,0 +1,3 @@
+interface:
+  display_name: "TMDB 分集创建与校正"
+  short_description: "核对来源并创建、补齐和校正 TMDB 分集信息流程"

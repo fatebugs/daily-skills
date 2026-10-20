@@ -1,0 +1,3 @@
+interface:
+  display_name: "TMDB 分集剧照上传"
+  short_description: "按分集匹配本地图片并逐集上传、核验 TMDB 剧照流程"
